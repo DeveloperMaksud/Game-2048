@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/drawable/background_default.xml" value="0.1315" />
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/drawable/background_not_touch.xml" value="0.1315" />
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/drawable/backgroundd.xml" value="0.1315" />
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/drawable/btnudo.xml" value="0.176" />
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/drawable/button_background.xml" value="0.1315" />
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/drawable/button_for_pla.xml" value="0.1585" />
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/drawable/color_2.xml" value="0.1585" />
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/drawable/for_info_exit.xml" value="0.1585" />
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/drawable/forframe.xml" value="0.1315" />
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/drawable/play_button.xml" value="0.1315" />
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/layout/about_info.xml" value="0.25" />
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/layout/dialog_exit.xml" value="0.24635416666666668" />
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/layout/dialog_game_over.xml" value="0.25" />
+        <entry key="..\:/my Projects for send/Game_2048/app/src/main/res/layout/game_activity.xml" value="0.21944444444444444" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
