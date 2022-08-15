@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Game 2048</string>
+    <string name="info">This 2048 game is done by sliding numbers that are multiples of 2. You can save your best score in this game. App author: Maksud Bafoyev </string>
+    <string name="do_you_want_to_play_again">Do you want to play again?</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="the_game_2048">The Game 2048</string>
+    <string name="ok">ok</string>
+    <string name="play">PLAY</string>
+    <string name="infomenu">Info</string>
+    <string name="exit">Exit</string>
+    <string name="gita_it_academy">GITA IT Academy</string>
+    <string name="start_a_new_game">Start a new game?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="new_game">new game</string>
+    <string name="exitgame">exit</string>
+    <string name="target">TARGET</string>
+    <string name="_2048">2048</string>
+    <string name="score">SCORE</string>
+    <string name="_0">0</string>
+    <string name="highest">HIGHEST</string>
+    <string name="_0_record">0</string>
+    <string name="new_game_game">New Game</string>
+    <string name="undo">Undo</string>
+    <string name="undo_2">Undo</string>
+    <string name="exit_game">Exit game</string>
+
+</resources>

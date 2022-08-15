@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Game_2048" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_900</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="background">@color/onSurfaceNight</item>
+        <item name="colorSurface">@color/onSurfaceNight</item>
+        <item name="colorError">#B00020</item>
+        <item name="colorOnBackground">@color/qoranol</item>
+        <item name="colorOnSurface">#000000</item>
+        <item name="colorOnError">@color/onSurfaceNight</item>
+        <item name="android:windowBackground">@drawable/for_main_ground</item>
+                <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#57407C</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
